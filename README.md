@@ -1,8 +1,8 @@
-# OptiStudy
+# OptiStudy Coach
 
 YKS'ye hazırlanan öğrenci için istatistik tabanlı kişisel koç. Deneme sonuçlarını "bu hafta ne çalışmalıyım?" sorusunun cevabına çevirir.
 
-**Durum:** Aşama 1–8 tamamlandı: TYT ve alan denemeleri (AYT/YDT) girişi, gelişim paneli, net tahmini, TYT ve alan (SAY/EA/SÖZ/DİL) sıralama tahmini, haftalık konu önceliği, hedef takibi, açık/koyu temalı arayüz.
+**Özellikler:** TYT ve alan denemeleri (AYT/YDT) girişi, gelişim paneli, net tahmini, TYT ve alan (SAY/EA/SÖZ/DİL) sıralama tahmini, haftalık konu önceliği, hedef takibi, açık/koyu temalı arayüz.
 
 ## Kurulum
 
@@ -45,11 +45,6 @@ date,publisher,subject,topic,correct,wrong,blank
 Hiçbir şey silinmez: mevcut veritabanı `optistudy-yedek-<tarih-saat>.db` adıyla proje klasöründe kalır; alanın ve
 diploma notun yeni veritabanına aktarılır. `.db` dosyaları `.gitignore`'da olduğu için gerçek verin repoya girmez.
 
-## Eski veritabanı
-
-Aşama 1–5 ile oluşturulmuş bir `optistudy.db` ilk açılışta otomatik olarak yeni şemaya taşınır; önce yanına
-`optistudy-v1-yedek.db` kopyası alınır. Veriler ve deneme numaraları korunur.
-
 ## Uygulama
 
 ```bash
@@ -73,14 +68,3 @@ pytest -q
 | `scripts/` | Yardımcı scriptler |
 | `tests/` | pytest testleri |
 | `legacy/` | Eski R Shiny prototipi (sadece referans) |
-
-## Sıradaki aşamalar
-
-1. ~~Temel~~
-2. ~~Giriş + panel~~ 
-3. ~~Tahmin~~
-4. ~~Sıralama tahmini~~
-5. ~~Konu önceliği~~
-6. ~~AYT ve alan puanları (SAY/EA/SÖZ/DİL)~~
-7. ~~Arayüz yenileme ve gerçek veriye geçiş~~
-8. ~~Hedef takibi~~
