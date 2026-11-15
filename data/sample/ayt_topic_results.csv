@@ -1,0 +1,217 @@
+date,publisher,subject,topic,correct,wrong,blank
+2026-09-14,Yayınevi B,AYT Matematik,Temel kavramlar ve sayılar,3,1,0
+2026-09-14,Yayınevi B,AYT Matematik,Fonksiyonlar ve polinomlar,2,1,2
+2026-09-14,Yayınevi B,AYT Matematik,Denklemler ve eşitsizlikler,1,0,2
+2026-09-14,Yayınevi B,AYT Matematik,Trigonometri,1,1,2
+2026-09-14,Yayınevi B,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",0,1,3
+2026-09-14,Yayınevi B,AYT Matematik,Limit ve süreklilik,1,0,1
+2026-09-14,Yayınevi B,AYT Matematik,Türev,0,3,2
+2026-09-14,Yayınevi B,AYT Matematik,İntegral,0,1,3
+2026-09-14,Yayınevi B,AYT Matematik,Olasılık ve kombinatorik,3,0,0
+2026-09-14,Yayınevi B,AYT Matematik,Geometri,3,2,1
+2026-09-14,Yayınevi B,Fizik,"Kuvvet, hareket ve enerji",0,3,2
+2026-09-14,Yayınevi B,Fizik,Elektrik ve manyetizma,3,1,0
+2026-09-14,Yayınevi B,Fizik,Dalgalar ve optik,1,0,2
+2026-09-14,Yayınevi B,Fizik,Modern fizik,2,0,0
+2026-09-14,Yayınevi B,Kimya,"Atom, periyodik sistem ve bağlar",0,1,1
+2026-09-14,Yayınevi B,Kimya,Kimyasal hesaplamalar ve tepkimeler,1,1,0
+2026-09-14,Yayınevi B,Kimya,Gazlar ve çözeltiler,1,2,0
+2026-09-14,Yayınevi B,Kimya,Tepkime hızı ve denge,1,1,0
+2026-09-14,Yayınevi B,Kimya,Elektrokimya,1,1,0
+2026-09-14,Yayınevi B,Kimya,Organik kimya,1,1,0
+2026-09-14,Yayınevi B,Biyoloji,İnsan fizyolojisi,3,1,1
+2026-09-14,Yayınevi B,Biyoloji,"Hücre, kalıtım ve genetik",0,2,2
+2026-09-14,Yayınevi B,Biyoloji,Bitki biyolojisi,2,0,0
+2026-09-14,Yayınevi B,Biyoloji,Ekoloji ve canlıların sınıflandırılması,1,0,1
+2026-09-21,Yayınevi C,AYT Matematik,Temel kavramlar ve sayılar,2,1,1
+2026-09-21,Yayınevi C,AYT Matematik,Fonksiyonlar ve polinomlar,0,2,3
+2026-09-21,Yayınevi C,AYT Matematik,Denklemler ve eşitsizlikler,1,1,1
+2026-09-21,Yayınevi C,AYT Matematik,Trigonometri,1,0,3
+2026-09-21,Yayınevi C,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",1,2,1
+2026-09-21,Yayınevi C,AYT Matematik,Limit ve süreklilik,1,1,0
+2026-09-21,Yayınevi C,AYT Matematik,Türev,2,1,2
+2026-09-21,Yayınevi C,AYT Matematik,İntegral,1,1,2
+2026-09-21,Yayınevi C,AYT Matematik,Olasılık ve kombinatorik,1,2,0
+2026-09-21,Yayınevi C,AYT Matematik,Geometri,2,1,3
+2026-09-21,Yayınevi C,Fizik,"Kuvvet, hareket ve enerji",2,2,1
+2026-09-21,Yayınevi C,Fizik,Elektrik ve manyetizma,2,0,2
+2026-09-21,Yayınevi C,Fizik,Dalgalar ve optik,2,0,1
+2026-09-21,Yayınevi C,Fizik,Modern fizik,0,0,2
+2026-09-21,Yayınevi C,Kimya,"Atom, periyodik sistem ve bağlar",1,0,1
+2026-09-21,Yayınevi C,Kimya,Kimyasal hesaplamalar ve tepkimeler,0,1,1
+2026-09-21,Yayınevi C,Kimya,Gazlar ve çözeltiler,2,0,1
+2026-09-21,Yayınevi C,Kimya,Tepkime hızı ve denge,1,0,1
+2026-09-21,Yayınevi C,Kimya,Elektrokimya,0,1,1
+2026-09-21,Yayınevi C,Kimya,Organik kimya,1,0,1
+2026-09-21,Yayınevi C,Biyoloji,İnsan fizyolojisi,4,0,1
+2026-09-21,Yayınevi C,Biyoloji,"Hücre, kalıtım ve genetik",2,1,1
+2026-09-21,Yayınevi C,Biyoloji,Bitki biyolojisi,0,1,1
+2026-09-21,Yayınevi C,Biyoloji,Ekoloji ve canlıların sınıflandırılması,1,0,1
+2026-09-28,Yayınevi A,AYT Matematik,Temel kavramlar ve sayılar,3,1,0
+2026-09-28,Yayınevi A,AYT Matematik,Fonksiyonlar ve polinomlar,2,1,2
+2026-09-28,Yayınevi A,AYT Matematik,Denklemler ve eşitsizlikler,1,2,0
+2026-09-28,Yayınevi A,AYT Matematik,Trigonometri,2,1,1
+2026-09-28,Yayınevi A,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",1,3,0
+2026-09-28,Yayınevi A,AYT Matematik,Limit ve süreklilik,0,1,1
+2026-09-28,Yayınevi A,AYT Matematik,Türev,2,1,2
+2026-09-28,Yayınevi A,AYT Matematik,İntegral,0,2,2
+2026-09-28,Yayınevi A,AYT Matematik,Olasılık ve kombinatorik,1,0,2
+2026-09-28,Yayınevi A,AYT Matematik,Geometri,2,4,0
+2026-09-28,Yayınevi A,Fizik,"Kuvvet, hareket ve enerji",0,2,3
+2026-09-28,Yayınevi A,Fizik,Elektrik ve manyetizma,0,1,3
+2026-09-28,Yayınevi A,Fizik,Dalgalar ve optik,1,1,1
+2026-09-28,Yayınevi A,Fizik,Modern fizik,1,1,0
+2026-09-28,Yayınevi A,Kimya,"Atom, periyodik sistem ve bağlar",1,1,0
+2026-09-28,Yayınevi A,Kimya,Kimyasal hesaplamalar ve tepkimeler,0,1,1
+2026-09-28,Yayınevi A,Kimya,Gazlar ve çözeltiler,2,1,0
+2026-09-28,Yayınevi A,Kimya,Tepkime hızı ve denge,1,1,0
+2026-09-28,Yayınevi A,Kimya,Elektrokimya,0,1,1
+2026-09-28,Yayınevi A,Kimya,Organik kimya,2,0,0
+2026-09-28,Yayınevi A,Biyoloji,İnsan fizyolojisi,3,0,2
+2026-09-28,Yayınevi A,Biyoloji,"Hücre, kalıtım ve genetik",1,1,2
+2026-09-28,Yayınevi A,Biyoloji,Bitki biyolojisi,1,0,1
+2026-09-28,Yayınevi A,Biyoloji,Ekoloji ve canlıların sınıflandırılması,1,0,1
+2026-10-05,Yayınevi B,AYT Matematik,Temel kavramlar ve sayılar,3,0,1
+2026-10-05,Yayınevi B,AYT Matematik,Fonksiyonlar ve polinomlar,5,0,0
+2026-10-05,Yayınevi B,AYT Matematik,Denklemler ve eşitsizlikler,2,1,0
+2026-10-05,Yayınevi B,AYT Matematik,Trigonometri,3,0,1
+2026-10-05,Yayınevi B,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",3,0,1
+2026-10-05,Yayınevi B,AYT Matematik,Limit ve süreklilik,1,1,0
+2026-10-05,Yayınevi B,AYT Matematik,Türev,2,2,1
+2026-10-05,Yayınevi B,AYT Matematik,İntegral,2,0,2
+2026-10-05,Yayınevi B,AYT Matematik,Olasılık ve kombinatorik,2,1,0
+2026-10-05,Yayınevi B,AYT Matematik,Geometri,2,2,2
+2026-10-05,Yayınevi B,Fizik,"Kuvvet, hareket ve enerji",2,2,1
+2026-10-05,Yayınevi B,Fizik,Elektrik ve manyetizma,0,0,4
+2026-10-05,Yayınevi B,Fizik,Dalgalar ve optik,1,0,2
+2026-10-05,Yayınevi B,Fizik,Modern fizik,0,1,1
+2026-10-05,Yayınevi B,Kimya,"Atom, periyodik sistem ve bağlar",1,0,1
+2026-10-05,Yayınevi B,Kimya,Kimyasal hesaplamalar ve tepkimeler,2,0,0
+2026-10-05,Yayınevi B,Kimya,Gazlar ve çözeltiler,1,1,1
+2026-10-05,Yayınevi B,Kimya,Tepkime hızı ve denge,2,0,0
+2026-10-05,Yayınevi B,Kimya,Elektrokimya,1,0,1
+2026-10-05,Yayınevi B,Kimya,Organik kimya,0,1,1
+2026-10-05,Yayınevi B,Biyoloji,İnsan fizyolojisi,4,1,0
+2026-10-05,Yayınevi B,Biyoloji,"Hücre, kalıtım ve genetik",3,0,1
+2026-10-05,Yayınevi B,Biyoloji,Bitki biyolojisi,2,0,0
+2026-10-05,Yayınevi B,Biyoloji,Ekoloji ve canlıların sınıflandırılması,1,0,1
+2026-10-12,Yayınevi C,AYT Matematik,Temel kavramlar ve sayılar,2,1,1
+2026-10-12,Yayınevi C,AYT Matematik,Fonksiyonlar ve polinomlar,2,0,3
+2026-10-12,Yayınevi C,AYT Matematik,Denklemler ve eşitsizlikler,2,1,0
+2026-10-12,Yayınevi C,AYT Matematik,Trigonometri,2,1,1
+2026-10-12,Yayınevi C,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",3,1,0
+2026-10-12,Yayınevi C,AYT Matematik,Limit ve süreklilik,0,0,2
+2026-10-12,Yayınevi C,AYT Matematik,Türev,3,1,1
+2026-10-12,Yayınevi C,AYT Matematik,İntegral,0,1,3
+2026-10-12,Yayınevi C,AYT Matematik,Olasılık ve kombinatorik,2,1,0
+2026-10-12,Yayınevi C,AYT Matematik,Geometri,3,3,0
+2026-10-12,Yayınevi C,Fizik,"Kuvvet, hareket ve enerji",3,0,2
+2026-10-12,Yayınevi C,Fizik,Elektrik ve manyetizma,0,1,3
+2026-10-12,Yayınevi C,Fizik,Dalgalar ve optik,2,1,0
+2026-10-12,Yayınevi C,Fizik,Modern fizik,2,0,0
+2026-10-12,Yayınevi C,Kimya,"Atom, periyodik sistem ve bağlar",1,1,0
+2026-10-12,Yayınevi C,Kimya,Kimyasal hesaplamalar ve tepkimeler,1,0,1
+2026-10-12,Yayınevi C,Kimya,Gazlar ve çözeltiler,3,0,0
+2026-10-12,Yayınevi C,Kimya,Tepkime hızı ve denge,1,1,0
+2026-10-12,Yayınevi C,Kimya,Elektrokimya,0,1,1
+2026-10-12,Yayınevi C,Kimya,Organik kimya,0,2,0
+2026-10-12,Yayınevi C,Biyoloji,İnsan fizyolojisi,2,1,2
+2026-10-12,Yayınevi C,Biyoloji,"Hücre, kalıtım ve genetik",2,1,1
+2026-10-12,Yayınevi C,Biyoloji,Bitki biyolojisi,1,0,1
+2026-10-12,Yayınevi C,Biyoloji,Ekoloji ve canlıların sınıflandırılması,1,0,1
+2026-10-19,Yayınevi A,AYT Matematik,Temel kavramlar ve sayılar,1,2,1
+2026-10-19,Yayınevi A,AYT Matematik,Fonksiyonlar ve polinomlar,5,0,0
+2026-10-19,Yayınevi A,AYT Matematik,Denklemler ve eşitsizlikler,1,1,1
+2026-10-19,Yayınevi A,AYT Matematik,Trigonometri,1,0,3
+2026-10-19,Yayınevi A,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",1,2,1
+2026-10-19,Yayınevi A,AYT Matematik,Limit ve süreklilik,0,0,2
+2026-10-19,Yayınevi A,AYT Matematik,Türev,0,2,3
+2026-10-19,Yayınevi A,AYT Matematik,İntegral,0,1,3
+2026-10-19,Yayınevi A,AYT Matematik,Olasılık ve kombinatorik,0,2,1
+2026-10-19,Yayınevi A,AYT Matematik,Geometri,2,3,1
+2026-10-19,Yayınevi A,Fizik,"Kuvvet, hareket ve enerji",2,2,1
+2026-10-19,Yayınevi A,Fizik,Elektrik ve manyetizma,1,1,2
+2026-10-19,Yayınevi A,Fizik,Dalgalar ve optik,2,1,0
+2026-10-19,Yayınevi A,Fizik,Modern fizik,1,1,0
+2026-10-19,Yayınevi A,Kimya,"Atom, periyodik sistem ve bağlar",2,0,0
+2026-10-19,Yayınevi A,Kimya,Kimyasal hesaplamalar ve tepkimeler,0,1,1
+2026-10-19,Yayınevi A,Kimya,Gazlar ve çözeltiler,1,1,1
+2026-10-19,Yayınevi A,Kimya,Tepkime hızı ve denge,1,0,1
+2026-10-19,Yayınevi A,Kimya,Elektrokimya,1,1,0
+2026-10-19,Yayınevi A,Kimya,Organik kimya,1,0,1
+2026-10-19,Yayınevi A,Biyoloji,İnsan fizyolojisi,2,2,1
+2026-10-19,Yayınevi A,Biyoloji,"Hücre, kalıtım ve genetik",2,0,2
+2026-10-19,Yayınevi A,Biyoloji,Bitki biyolojisi,0,1,1
+2026-10-19,Yayınevi A,Biyoloji,Ekoloji ve canlıların sınıflandırılması,0,1,1
+2026-10-26,Yayınevi B,AYT Matematik,Temel kavramlar ve sayılar,3,0,1
+2026-10-26,Yayınevi B,AYT Matematik,Fonksiyonlar ve polinomlar,2,2,1
+2026-10-26,Yayınevi B,AYT Matematik,Denklemler ve eşitsizlikler,2,1,0
+2026-10-26,Yayınevi B,AYT Matematik,Trigonometri,2,0,2
+2026-10-26,Yayınevi B,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",3,1,0
+2026-10-26,Yayınevi B,AYT Matematik,Limit ve süreklilik,1,0,1
+2026-10-26,Yayınevi B,AYT Matematik,Türev,0,2,3
+2026-10-26,Yayınevi B,AYT Matematik,İntegral,1,2,1
+2026-10-26,Yayınevi B,AYT Matematik,Olasılık ve kombinatorik,2,1,0
+2026-10-26,Yayınevi B,AYT Matematik,Geometri,1,4,1
+2026-10-26,Yayınevi B,Fizik,"Kuvvet, hareket ve enerji",0,3,2
+2026-10-26,Yayınevi B,Fizik,Elektrik ve manyetizma,2,1,1
+2026-10-26,Yayınevi B,Fizik,Dalgalar ve optik,1,0,2
+2026-10-26,Yayınevi B,Fizik,Modern fizik,0,1,1
+2026-10-26,Yayınevi B,Kimya,"Atom, periyodik sistem ve bağlar",1,1,0
+2026-10-26,Yayınevi B,Kimya,Kimyasal hesaplamalar ve tepkimeler,2,0,0
+2026-10-26,Yayınevi B,Kimya,Gazlar ve çözeltiler,2,1,0
+2026-10-26,Yayınevi B,Kimya,Tepkime hızı ve denge,0,2,0
+2026-10-26,Yayınevi B,Kimya,Elektrokimya,0,1,1
+2026-10-26,Yayınevi B,Kimya,Organik kimya,0,0,2
+2026-10-26,Yayınevi B,Biyoloji,İnsan fizyolojisi,3,1,1
+2026-10-26,Yayınevi B,Biyoloji,"Hücre, kalıtım ve genetik",2,1,1
+2026-10-26,Yayınevi B,Biyoloji,Bitki biyolojisi,1,1,0
+2026-10-26,Yayınevi B,Biyoloji,Ekoloji ve canlıların sınıflandırılması,0,1,1
+2026-11-02,Yayınevi C,AYT Matematik,Temel kavramlar ve sayılar,4,0,0
+2026-11-02,Yayınevi C,AYT Matematik,Fonksiyonlar ve polinomlar,1,2,2
+2026-11-02,Yayınevi C,AYT Matematik,Denklemler ve eşitsizlikler,3,0,0
+2026-11-02,Yayınevi C,AYT Matematik,Trigonometri,2,0,2
+2026-11-02,Yayınevi C,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",2,0,2
+2026-11-02,Yayınevi C,AYT Matematik,Limit ve süreklilik,1,1,0
+2026-11-02,Yayınevi C,AYT Matematik,Türev,4,0,1
+2026-11-02,Yayınevi C,AYT Matematik,İntegral,1,1,2
+2026-11-02,Yayınevi C,AYT Matematik,Olasılık ve kombinatorik,2,1,0
+2026-11-02,Yayınevi C,AYT Matematik,Geometri,3,1,2
+2026-11-02,Yayınevi C,Fizik,"Kuvvet, hareket ve enerji",0,3,2
+2026-11-02,Yayınevi C,Fizik,Elektrik ve manyetizma,1,2,1
+2026-11-02,Yayınevi C,Fizik,Dalgalar ve optik,2,0,1
+2026-11-02,Yayınevi C,Fizik,Modern fizik,1,0,1
+2026-11-02,Yayınevi C,Kimya,"Atom, periyodik sistem ve bağlar",1,1,0
+2026-11-02,Yayınevi C,Kimya,Kimyasal hesaplamalar ve tepkimeler,1,0,1
+2026-11-02,Yayınevi C,Kimya,Gazlar ve çözeltiler,2,1,0
+2026-11-02,Yayınevi C,Kimya,Tepkime hızı ve denge,2,0,0
+2026-11-02,Yayınevi C,Kimya,Elektrokimya,2,0,0
+2026-11-02,Yayınevi C,Kimya,Organik kimya,1,1,0
+2026-11-02,Yayınevi C,Biyoloji,İnsan fizyolojisi,3,0,2
+2026-11-02,Yayınevi C,Biyoloji,"Hücre, kalıtım ve genetik",2,1,1
+2026-11-02,Yayınevi C,Biyoloji,Bitki biyolojisi,2,0,0
+2026-11-02,Yayınevi C,Biyoloji,Ekoloji ve canlıların sınıflandırılması,1,0,1
+2026-11-09,Yayınevi A,AYT Matematik,Temel kavramlar ve sayılar,3,0,1
+2026-11-09,Yayınevi A,AYT Matematik,Fonksiyonlar ve polinomlar,3,2,0
+2026-11-09,Yayınevi A,AYT Matematik,Denklemler ve eşitsizlikler,3,0,0
+2026-11-09,Yayınevi A,AYT Matematik,Trigonometri,2,1,1
+2026-11-09,Yayınevi A,AYT Matematik,"Logaritma, üstel fonksiyon ve diziler",2,1,1
+2026-11-09,Yayınevi A,AYT Matematik,Limit ve süreklilik,2,0,0
+2026-11-09,Yayınevi A,AYT Matematik,Türev,2,1,2
+2026-11-09,Yayınevi A,AYT Matematik,İntegral,2,0,2
+2026-11-09,Yayınevi A,AYT Matematik,Olasılık ve kombinatorik,2,0,1
+2026-11-09,Yayınevi A,AYT Matematik,Geometri,3,2,1
+2026-11-09,Yayınevi A,Fizik,"Kuvvet, hareket ve enerji",1,2,2
+2026-11-09,Yayınevi A,Fizik,Elektrik ve manyetizma,1,3,0
+2026-11-09,Yayınevi A,Fizik,Dalgalar ve optik,1,1,1
+2026-11-09,Yayınevi A,Fizik,Modern fizik,1,1,0
+2026-11-09,Yayınevi A,Kimya,"Atom, periyodik sistem ve bağlar",0,1,1
+2026-11-09,Yayınevi A,Kimya,Kimyasal hesaplamalar ve tepkimeler,1,0,1
+2026-11-09,Yayınevi A,Kimya,Gazlar ve çözeltiler,2,1,0
+2026-11-09,Yayınevi A,Kimya,Tepkime hızı ve denge,1,0,1
+2026-11-09,Yayınevi A,Kimya,Elektrokimya,0,2,0
+2026-11-09,Yayınevi A,Kimya,Organik kimya,1,0,1
+2026-11-09,Yayınevi A,Biyoloji,İnsan fizyolojisi,1,2,2
+2026-11-09,Yayınevi A,Biyoloji,"Hücre, kalıtım ve genetik",4,0,0
+2026-11-09,Yayınevi A,Biyoloji,Bitki biyolojisi,2,0,0
+2026-11-09,Yayınevi A,Biyoloji,Ekoloji ve canlıların sınıflandırılması,1,0,1

@@ -1,0 +1,41 @@
+date,publisher,exam_type,subject,correct,wrong,blank
+2026-09-07,Yayınevi A,AYT,AYT Matematik,14,14,12
+2026-09-07,Yayınevi A,AYT,Fizik,3,8,3
+2026-09-07,Yayınevi A,AYT,Kimya,3,8,2
+2026-09-07,Yayınevi A,AYT,Biyoloji,5,4,4
+2026-09-14,Yayınevi B,AYT,AYT Matematik,14,10,16
+2026-09-14,Yayınevi B,AYT,Fizik,6,4,4
+2026-09-14,Yayınevi B,AYT,Kimya,5,7,1
+2026-09-14,Yayınevi B,AYT,Biyoloji,6,3,4
+2026-09-21,Yayınevi C,AYT,AYT Matematik,12,12,16
+2026-09-21,Yayınevi C,AYT,Fizik,6,2,6
+2026-09-21,Yayınevi C,AYT,Kimya,5,2,6
+2026-09-21,Yayınevi C,AYT,Biyoloji,7,2,4
+2026-09-28,Yayınevi A,AYT,AYT Matematik,14,16,10
+2026-09-28,Yayınevi A,AYT,Fizik,2,5,7
+2026-09-28,Yayınevi A,AYT,Kimya,6,5,2
+2026-09-28,Yayınevi A,AYT,Biyoloji,6,1,6
+2026-10-05,Yayınevi B,AYT,AYT Matematik,25,7,8
+2026-10-05,Yayınevi B,AYT,Fizik,3,3,8
+2026-10-05,Yayınevi B,AYT,Kimya,7,2,4
+2026-10-05,Yayınevi B,AYT,Biyoloji,10,1,2
+2026-10-12,Yayınevi C,AYT,AYT Matematik,19,10,11
+2026-10-12,Yayınevi C,AYT,Fizik,7,2,5
+2026-10-12,Yayınevi C,AYT,Kimya,6,5,2
+2026-10-12,Yayınevi C,AYT,Biyoloji,6,2,5
+2026-10-19,Yayınevi A,AYT,AYT Matematik,11,13,16
+2026-10-19,Yayınevi A,AYT,Fizik,6,5,3
+2026-10-19,Yayınevi A,AYT,Kimya,6,3,4
+2026-10-19,Yayınevi A,AYT,Biyoloji,4,4,5
+2026-10-26,Yayınevi B,AYT,AYT Matematik,17,13,10
+2026-10-26,Yayınevi B,AYT,Fizik,3,5,6
+2026-10-26,Yayınevi B,AYT,Kimya,5,5,3
+2026-10-26,Yayınevi B,AYT,Biyoloji,6,4,3
+2026-11-02,Yayınevi C,AYT,AYT Matematik,23,6,11
+2026-11-02,Yayınevi C,AYT,Fizik,4,5,5
+2026-11-02,Yayınevi C,AYT,Kimya,9,3,1
+2026-11-02,Yayınevi C,AYT,Biyoloji,8,1,4
+2026-11-09,Yayınevi A,AYT,AYT Matematik,24,7,9
+2026-11-09,Yayınevi A,AYT,Fizik,4,7,3
+2026-11-09,Yayınevi A,AYT,Kimya,5,4,4
+2026-11-09,Yayınevi A,AYT,Biyoloji,8,2,3

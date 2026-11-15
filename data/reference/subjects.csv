@@ -1,0 +1,17 @@
+name,question_count,exam_type
+Türkçe,40,TYT
+Sosyal,20,TYT
+Matematik,40,TYT
+Fen,20,TYT
+Edebiyat,24,AYT
+Tarih-1,10,AYT
+Coğrafya-1,6,AYT
+Tarih-2,11,AYT
+Coğrafya-2,11,AYT
+Felsefe Grubu,12,AYT
+Din Kültürü,6,AYT
+AYT Matematik,40,AYT
+Fizik,14,AYT
+Kimya,13,AYT
+Biyoloji,13,AYT
+Yabancı Dil,80,YDT

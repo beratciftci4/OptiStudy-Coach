@@ -1,0 +1,181 @@
+date,publisher,subject,topic,correct,wrong,blank
+2026-09-20,Yayınevi C,Türkçe,Sözcükte anlam,2,0,2
+2026-09-20,Yayınevi C,Türkçe,Cümlede anlam,5,0,1
+2026-09-20,Yayınevi C,Türkçe,Paragraf,17,4,1
+2026-09-20,Yayınevi C,Türkçe,Dil bilgisi,5,0,0
+2026-09-20,Yayınevi C,Türkçe,Yazım ve noktalama,1,2,0
+2026-09-20,Yayınevi C,Sosyal,Tarih,3,0,2
+2026-09-20,Yayınevi C,Sosyal,Coğrafya,5,0,0
+2026-09-20,Yayınevi C,Sosyal,Felsefe,4,1,0
+2026-09-20,Yayınevi C,Sosyal,Din Kültürü ve Ahlak Bilgisi,3,1,1
+2026-09-20,Yayınevi C,Matematik,Temel kavramlar ve sayılar,2,4,2
+2026-09-20,Yayınevi C,Matematik,Problemler,6,3,3
+2026-09-20,Yayınevi C,Matematik,Cebir ve fonksiyonlar,3,3,1
+2026-09-20,Yayınevi C,Matematik,Kümeler ve mantık,1,1,0
+2026-09-20,Yayınevi C,Matematik,Olasılık ve veri,2,1,0
+2026-09-20,Yayınevi C,Matematik,Geometri,3,3,2
+2026-09-20,Yayınevi C,Fen,Fizik,2,3,2
+2026-09-20,Yayınevi C,Fen,Kimya,2,4,1
+2026-09-20,Yayınevi C,Fen,Biyoloji,3,2,1
+2026-09-27,Yayınevi A,Türkçe,Sözcükte anlam,3,0,1
+2026-09-27,Yayınevi A,Türkçe,Cümlede anlam,5,1,0
+2026-09-27,Yayınevi A,Türkçe,Paragraf,18,3,1
+2026-09-27,Yayınevi A,Türkçe,Dil bilgisi,2,3,0
+2026-09-27,Yayınevi A,Türkçe,Yazım ve noktalama,1,1,1
+2026-09-27,Yayınevi A,Sosyal,Tarih,2,1,2
+2026-09-27,Yayınevi A,Sosyal,Coğrafya,4,0,1
+2026-09-27,Yayınevi A,Sosyal,Felsefe,3,1,1
+2026-09-27,Yayınevi A,Sosyal,Din Kültürü ve Ahlak Bilgisi,5,0,0
+2026-09-27,Yayınevi A,Matematik,Temel kavramlar ve sayılar,7,0,1
+2026-09-27,Yayınevi A,Matematik,Problemler,2,5,5
+2026-09-27,Yayınevi A,Matematik,Cebir ve fonksiyonlar,2,3,2
+2026-09-27,Yayınevi A,Matematik,Kümeler ve mantık,2,0,0
+2026-09-27,Yayınevi A,Matematik,Olasılık ve veri,1,0,2
+2026-09-27,Yayınevi A,Matematik,Geometri,2,4,2
+2026-09-27,Yayınevi A,Fen,Fizik,2,3,2
+2026-09-27,Yayınevi A,Fen,Kimya,2,4,1
+2026-09-27,Yayınevi A,Fen,Biyoloji,4,1,1
+2026-10-04,Yayınevi B,Türkçe,Sözcükte anlam,2,2,0
+2026-10-04,Yayınevi B,Türkçe,Cümlede anlam,6,0,0
+2026-10-04,Yayınevi B,Türkçe,Paragraf,22,0,0
+2026-10-04,Yayınevi B,Türkçe,Dil bilgisi,1,3,1
+2026-10-04,Yayınevi B,Türkçe,Yazım ve noktalama,3,0,0
+2026-10-04,Yayınevi B,Sosyal,Tarih,1,2,2
+2026-10-04,Yayınevi B,Sosyal,Coğrafya,4,1,0
+2026-10-04,Yayınevi B,Sosyal,Felsefe,3,1,1
+2026-10-04,Yayınevi B,Sosyal,Din Kültürü ve Ahlak Bilgisi,3,1,1
+2026-10-04,Yayınevi B,Matematik,Temel kavramlar ve sayılar,5,1,2
+2026-10-04,Yayınevi B,Matematik,Problemler,7,5,0
+2026-10-04,Yayınevi B,Matematik,Cebir ve fonksiyonlar,2,3,2
+2026-10-04,Yayınevi B,Matematik,Kümeler ve mantık,2,0,0
+2026-10-04,Yayınevi B,Matematik,Olasılık ve veri,1,0,2
+2026-10-04,Yayınevi B,Matematik,Geometri,2,4,2
+2026-10-04,Yayınevi B,Fen,Fizik,3,4,0
+2026-10-04,Yayınevi B,Fen,Kimya,2,3,2
+2026-10-04,Yayınevi B,Fen,Biyoloji,1,4,1
+2026-10-11,Yayınevi C,Türkçe,Sözcükte anlam,3,1,0
+2026-10-11,Yayınevi C,Türkçe,Cümlede anlam,4,1,1
+2026-10-11,Yayınevi C,Türkçe,Paragraf,16,3,3
+2026-10-11,Yayınevi C,Türkçe,Dil bilgisi,3,1,1
+2026-10-11,Yayınevi C,Türkçe,Yazım ve noktalama,2,1,0
+2026-10-11,Yayınevi C,Sosyal,Tarih,3,1,1
+2026-10-11,Yayınevi C,Sosyal,Coğrafya,4,1,0
+2026-10-11,Yayınevi C,Sosyal,Felsefe,2,2,1
+2026-10-11,Yayınevi C,Sosyal,Din Kültürü ve Ahlak Bilgisi,3,1,1
+2026-10-11,Yayınevi C,Matematik,Temel kavramlar ve sayılar,6,2,0
+2026-10-11,Yayınevi C,Matematik,Problemler,5,5,2
+2026-10-11,Yayınevi C,Matematik,Cebir ve fonksiyonlar,5,2,0
+2026-10-11,Yayınevi C,Matematik,Kümeler ve mantık,1,1,0
+2026-10-11,Yayınevi C,Matematik,Olasılık ve veri,0,3,0
+2026-10-11,Yayınevi C,Matematik,Geometri,6,1,1
+2026-10-11,Yayınevi C,Fen,Fizik,2,3,2
+2026-10-11,Yayınevi C,Fen,Kimya,3,3,1
+2026-10-11,Yayınevi C,Fen,Biyoloji,2,2,2
+2026-10-18,Yayınevi A,Türkçe,Sözcükte anlam,4,0,0
+2026-10-18,Yayınevi A,Türkçe,Cümlede anlam,6,0,0
+2026-10-18,Yayınevi A,Türkçe,Paragraf,14,6,2
+2026-10-18,Yayınevi A,Türkçe,Dil bilgisi,3,2,0
+2026-10-18,Yayınevi A,Türkçe,Yazım ve noktalama,2,1,0
+2026-10-18,Yayınevi A,Sosyal,Tarih,2,2,1
+2026-10-18,Yayınevi A,Sosyal,Coğrafya,5,0,0
+2026-10-18,Yayınevi A,Sosyal,Felsefe,5,0,0
+2026-10-18,Yayınevi A,Sosyal,Din Kültürü ve Ahlak Bilgisi,3,1,1
+2026-10-18,Yayınevi A,Matematik,Temel kavramlar ve sayılar,4,1,3
+2026-10-18,Yayınevi A,Matematik,Problemler,3,7,2
+2026-10-18,Yayınevi A,Matematik,Cebir ve fonksiyonlar,5,0,2
+2026-10-18,Yayınevi A,Matematik,Kümeler ve mantık,1,1,0
+2026-10-18,Yayınevi A,Matematik,Olasılık ve veri,1,1,1
+2026-10-18,Yayınevi A,Matematik,Geometri,4,2,2
+2026-10-18,Yayınevi A,Fen,Fizik,2,3,2
+2026-10-18,Yayınevi A,Fen,Kimya,5,2,0
+2026-10-18,Yayınevi A,Fen,Biyoloji,4,2,0
+2026-10-25,Yayınevi B,Türkçe,Sözcükte anlam,4,0,0
+2026-10-25,Yayınevi B,Türkçe,Cümlede anlam,5,0,1
+2026-10-25,Yayınevi B,Türkçe,Paragraf,18,1,3
+2026-10-25,Yayınevi B,Türkçe,Dil bilgisi,3,2,0
+2026-10-25,Yayınevi B,Türkçe,Yazım ve noktalama,3,0,0
+2026-10-25,Yayınevi B,Sosyal,Tarih,4,1,0
+2026-10-25,Yayınevi B,Sosyal,Coğrafya,2,1,2
+2026-10-25,Yayınevi B,Sosyal,Felsefe,5,0,0
+2026-10-25,Yayınevi B,Sosyal,Din Kültürü ve Ahlak Bilgisi,5,0,0
+2026-10-25,Yayınevi B,Matematik,Temel kavramlar ve sayılar,6,2,0
+2026-10-25,Yayınevi B,Matematik,Problemler,6,2,4
+2026-10-25,Yayınevi B,Matematik,Cebir ve fonksiyonlar,2,4,1
+2026-10-25,Yayınevi B,Matematik,Kümeler ve mantık,2,0,0
+2026-10-25,Yayınevi B,Matematik,Olasılık ve veri,0,1,2
+2026-10-25,Yayınevi B,Matematik,Geometri,5,3,0
+2026-10-25,Yayınevi B,Fen,Fizik,2,2,3
+2026-10-25,Yayınevi B,Fen,Kimya,3,3,1
+2026-10-25,Yayınevi B,Fen,Biyoloji,3,2,1
+2026-11-01,Yayınevi C,Türkçe,Sözcükte anlam,2,2,0
+2026-11-01,Yayınevi C,Türkçe,Cümlede anlam,4,1,1
+2026-11-01,Yayınevi C,Türkçe,Paragraf,22,0,0
+2026-11-01,Yayınevi C,Türkçe,Dil bilgisi,3,1,1
+2026-11-01,Yayınevi C,Türkçe,Yazım ve noktalama,0,3,0
+2026-11-01,Yayınevi C,Sosyal,Tarih,1,2,2
+2026-11-01,Yayınevi C,Sosyal,Coğrafya,2,3,0
+2026-11-01,Yayınevi C,Sosyal,Felsefe,3,1,1
+2026-11-01,Yayınevi C,Sosyal,Din Kültürü ve Ahlak Bilgisi,3,0,2
+2026-11-01,Yayınevi C,Matematik,Temel kavramlar ve sayılar,3,4,1
+2026-11-01,Yayınevi C,Matematik,Problemler,5,3,4
+2026-11-01,Yayınevi C,Matematik,Cebir ve fonksiyonlar,4,0,3
+2026-11-01,Yayınevi C,Matematik,Kümeler ve mantık,1,1,0
+2026-11-01,Yayınevi C,Matematik,Olasılık ve veri,2,0,1
+2026-11-01,Yayınevi C,Matematik,Geometri,0,5,3
+2026-11-01,Yayınevi C,Fen,Fizik,3,3,1
+2026-11-01,Yayınevi C,Fen,Kimya,4,2,1
+2026-11-01,Yayınevi C,Fen,Biyoloji,4,1,1
+2026-11-08,Yayınevi A,Türkçe,Sözcükte anlam,3,1,0
+2026-11-08,Yayınevi A,Türkçe,Cümlede anlam,4,0,2
+2026-11-08,Yayınevi A,Türkçe,Paragraf,15,5,2
+2026-11-08,Yayınevi A,Türkçe,Dil bilgisi,0,3,2
+2026-11-08,Yayınevi A,Türkçe,Yazım ve noktalama,2,1,0
+2026-11-08,Yayınevi A,Sosyal,Tarih,2,1,2
+2026-11-08,Yayınevi A,Sosyal,Coğrafya,4,1,0
+2026-11-08,Yayınevi A,Sosyal,Felsefe,4,1,0
+2026-11-08,Yayınevi A,Sosyal,Din Kültürü ve Ahlak Bilgisi,3,1,1
+2026-11-08,Yayınevi A,Matematik,Temel kavramlar ve sayılar,5,2,1
+2026-11-08,Yayınevi A,Matematik,Problemler,3,3,6
+2026-11-08,Yayınevi A,Matematik,Cebir ve fonksiyonlar,6,0,1
+2026-11-08,Yayınevi A,Matematik,Kümeler ve mantık,2,0,0
+2026-11-08,Yayınevi A,Matematik,Olasılık ve veri,1,1,1
+2026-11-08,Yayınevi A,Matematik,Geometri,1,6,1
+2026-11-08,Yayınevi A,Fen,Fizik,2,3,2
+2026-11-08,Yayınevi A,Fen,Kimya,5,1,1
+2026-11-08,Yayınevi A,Fen,Biyoloji,2,2,2
+2026-11-15,Yayınevi B,Türkçe,Sözcükte anlam,4,0,0
+2026-11-15,Yayınevi B,Türkçe,Cümlede anlam,5,1,0
+2026-11-15,Yayınevi B,Türkçe,Paragraf,16,5,1
+2026-11-15,Yayınevi B,Türkçe,Dil bilgisi,5,0,0
+2026-11-15,Yayınevi B,Türkçe,Yazım ve noktalama,3,0,0
+2026-11-15,Yayınevi B,Sosyal,Tarih,4,1,0
+2026-11-15,Yayınevi B,Sosyal,Coğrafya,5,0,0
+2026-11-15,Yayınevi B,Sosyal,Felsefe,3,1,1
+2026-11-15,Yayınevi B,Sosyal,Din Kültürü ve Ahlak Bilgisi,5,0,0
+2026-11-15,Yayınevi B,Matematik,Temel kavramlar ve sayılar,7,1,0
+2026-11-15,Yayınevi B,Matematik,Problemler,7,2,3
+2026-11-15,Yayınevi B,Matematik,Cebir ve fonksiyonlar,5,2,0
+2026-11-15,Yayınevi B,Matematik,Kümeler ve mantık,2,0,0
+2026-11-15,Yayınevi B,Matematik,Olasılık ve veri,2,1,0
+2026-11-15,Yayınevi B,Matematik,Geometri,5,3,0
+2026-11-15,Yayınevi B,Fen,Fizik,1,3,3
+2026-11-15,Yayınevi B,Fen,Kimya,2,1,4
+2026-11-15,Yayınevi B,Fen,Biyoloji,4,1,1
+2026-11-22,Yayınevi C,Türkçe,Sözcükte anlam,2,2,0
+2026-11-22,Yayınevi C,Türkçe,Cümlede anlam,5,0,1
+2026-11-22,Yayınevi C,Türkçe,Paragraf,18,2,2
+2026-11-22,Yayınevi C,Türkçe,Dil bilgisi,4,1,0
+2026-11-22,Yayınevi C,Türkçe,Yazım ve noktalama,2,0,1
+2026-11-22,Yayınevi C,Sosyal,Tarih,3,1,1
+2026-11-22,Yayınevi C,Sosyal,Coğrafya,1,4,0
+2026-11-22,Yayınevi C,Sosyal,Felsefe,4,0,1
+2026-11-22,Yayınevi C,Sosyal,Din Kültürü ve Ahlak Bilgisi,2,1,2
+2026-11-22,Yayınevi C,Matematik,Temel kavramlar ve sayılar,7,0,1
+2026-11-22,Yayınevi C,Matematik,Problemler,8,4,0
+2026-11-22,Yayınevi C,Matematik,Cebir ve fonksiyonlar,5,0,2
+2026-11-22,Yayınevi C,Matematik,Kümeler ve mantık,2,0,0
+2026-11-22,Yayınevi C,Matematik,Olasılık ve veri,2,0,1
+2026-11-22,Yayınevi C,Matematik,Geometri,4,3,1
+2026-11-22,Yayınevi C,Fen,Fizik,3,1,3
+2026-11-22,Yayınevi C,Fen,Kimya,4,3,0
+2026-11-22,Yayınevi C,Fen,Biyoloji,3,2,1

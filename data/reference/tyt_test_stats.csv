@@ -1,0 +1,5 @@
+year,subject,question_count,weight,mean_final_year,sd_final_year,mean_all,sd_all,source
+2026,Türkçe,40,0.33,20.5,8.4,20.1,8.3,"ÖSYM 2026-YKS Sayısal Bilgiler (21.07.2026); ağırlık: ÖSYM 2026-YKS Kılavuzu Tablo 1C"
+2026,Sosyal,20,0.17,10.2,3.9,10.0,4.0,"ÖSYM 2026-YKS Sayısal Bilgiler (21.07.2026); ağırlık: ÖSYM 2026-YKS Kılavuzu Tablo 1C"
+2026,Matematik,40,0.33,6.8,8.0,6.4,7.5,"ÖSYM 2026-YKS Sayısal Bilgiler (21.07.2026); ağırlık: ÖSYM 2026-YKS Kılavuzu Tablo 1C"
+2026,Fen,20,0.17,4.3,5.3,3.9,5.0,"ÖSYM 2026-YKS Sayısal Bilgiler (21.07.2026); ağırlık: ÖSYM 2026-YKS Kılavuzu Tablo 1C"
